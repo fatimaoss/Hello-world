@@ -1,8 +1,0 @@
-echo "# hello-world" >> readme.md
-git init
-git add readme.md
-git commit -m "first commit"
-git branch -m main
-git remote add origin git@github.com:fatimaoss/hello-world.git
-git push -u origin main
-                
